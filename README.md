@@ -9,7 +9,7 @@ simple arduino robo car project
 
 
 ## Assembly / Wiring
-* Since I dont have a CD drive, I didnt even look at the CD.  But I found [these](../robot-car-instructions.pdf) instructions online
+* Since I dont have a CD drive, I didnt even look at the CD.  But I found [these](./robot-car-instructions.pdf) instructions online
 * Couple of pointers on the instructions:
   * I removed the brown paper from the plexiglass base
   * Battery didnt fit as described in instructions, I used double sided tape
