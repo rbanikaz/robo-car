@@ -18,3 +18,8 @@ simple arduino robo car project
   * I added the LED Strip and plugged it into A0 Pin slot with the extra 2 wired into the battery pack
   * If robot keeps reverting to setup method, it is likely just power, make sure battery pack is switched on and charged
 
+
+
+https://user-images.githubusercontent.com/828382/134728021-a2bcded6-dedf-4bbd-a63d-68475856329d.MOV
+
+![robo-car-top-down](https://user-images.githubusercontent.com/828382/134728053-bb353f31-3842-41e2-954e-70ed21e9af51.JPG)
